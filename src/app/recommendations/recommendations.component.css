@@ -1,0 +1,40 @@
+.content
+{
+    width: 1200px;
+    margin: 30px auto;
+    box-shadow: rgba(16, 105, 206, 0.986) 0 5px 10px;
+    padding-left: 300px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.title
+{
+    font-size: 45px;
+}
+
+.textrec
+{
+    font-size: 30px;
+    line-height: 32px;
+}
+
+
+.text
+{
+    width: 900px;
+    font-size: 24px;
+    
+}
+
+.photowindow
+{
+    width: 800px;
+    height: 650px;
+    text-align: center;
+}
+
+.list
+{
+    font-size: 22px;
+}
